@@ -1,0 +1,20 @@
+#titulo {
+    color: blueviolet;
+}
+
+.verde {
+    color:rgb(0, 95, 112);
+}
+
+h1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color:rgba(255, 30, 0, 0.76);
+}
+
+.titulos-grandes {
+    font-size: 50px;
+}
